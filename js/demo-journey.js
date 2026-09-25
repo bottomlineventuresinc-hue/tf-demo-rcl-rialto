@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential plumbing repairs and water heaters across Rialto and the Inland Empire. Roberto looks at the job, puts the price in writing, and then does the work.';
+            'Residential plumbing repairs and water heaters in Rialto. Roberto looks at the job, puts the price in writing, and then does the work.';
         }
       }
     },

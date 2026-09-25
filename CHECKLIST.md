@@ -30,3 +30,10 @@ lang: en-US · geo: CA
 
 ## PASS
 Quality self-check PASS 2026-09-25 PT (Wave 11). Shipped, awaiting CEO green.
+
+## Change request 2026-09-25c (coverage)
+CEO change request 2026-09-25c. Coverage towns chosen by the builder were removed. The page now names only
+the home city (Rialto) plus areas the packet itself lists. Packet line: "Coverage: Rialto / IE".
+Extra areas kept from the packet: none. Region label: Inland Empire (plain description, from the packet).
+Sample-job locations, coverage copy, the outside-the-city answer, demo lede and outreach line all use the home city only.
+Re-rendered through the same generator; republished to the same repo with a normal commit. Re-frozen 2026-09-25 PT.
