@@ -1,0 +1,21 @@
+PHOTO SOURCES · hs-050-rcl R C L Plumbing (Wave 11 2026-09-25 PT)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit. No face is used or captioned as the owner.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave11/plumb-wrenches-pipe.jpg : pipe wrenches on a pipe (rawpixel CC0 5904346)
+services-trade.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+people-crew.jpg <- wave11/tools-sockets.jpg : socket set (StockSnap CC0 M07SV6AMBD)
+people-marek.jpg <- wave11/kitchen-sink-steel.jpg : stainless double kitchen sink and faucet (rawpixel CC0 5907815)
+people-tom.jpg <- wave11/shower-head-spray.jpg : shower head running (rawpixel CC0 6032192)
+coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
+plumb-under-sink-hands.jpg <- wave11/plumb-under-sink-hands.jpg : hands fitting a supply line under a sink, no face (prior verified library wave2/under-sink.jpg)
+wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+tools-wrenches-dark.jpg <- wave11/tools-wrenches-dark.jpg : wrench set, dark background (StockSnap CC0 F91K0WLE2D)
+kitchen-faucet-chrome.jpg <- wave11/kitchen-faucet-chrome.jpg : chrome pull-down kitchen faucet (StockSnap CC0 XVEZZZGCXA)
+plumb-iron-fittings.jpg <- wave11/plumb-iron-fittings.jpg : black iron pipe fittings (rawpixel CC0 5947855)
+bath-sink-tile.jpg <- wave11/bath-sink-tile.jpg : bathroom sink and faucet, dark tile (StockSnap CC0 D3901L7G93)
+
+Rejected from prior library (not used): wave7 wh-* files (plasterer / painter / window cleaner mislabeled as water heaters),
+wave2/wave5 yellow-hat electrician portraits (stock face), crew photos with faces, wave2 elec-breaker-hand (sanding, not electrical).
+Note: Distinct from hs-034 Luna Plumbing (different owner, Moreno Valley). rclplumbing.com is registered to an unknown party since 2009; NOT used or linked.
