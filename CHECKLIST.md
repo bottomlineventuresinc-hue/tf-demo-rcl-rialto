@@ -1,5 +1,5 @@
 # Site customization checklist · R C L Plumbing (hs-050-rcl)
-Wave 11 · Copperline · claim/$297 + hosting/$99 bar required.
+Wave 11 · Copperline · offer v2 pricing bar (CR 2026-09-30).
 
 Before preview send:
 - [x] Business name everywhere (title, wordmark, footer, schema)
@@ -20,8 +20,7 @@ Before preview send:
 - [x] No stock face as owner
 - [x] No invented guarantee length, response time, or payment schedule
 - [x] No same-name domain owned by someone else linked or offered
-- [x] Stripe claim URL on bar: https://buy.stripe.com/cNieVdg1peCq9subRr1gs02
-- [x] Stripe hosting URL on bar and in journey: https://buy.stripe.com/8x2fZhaH52TI0VY7Bb1gs03
+- [x] Offer v2 (CR 2026-09-30): bar shows the CEO pricing line and "Questions or changes? Just reply to my text." only; no Stripe link on the page
 - [x] Preview URL on GitHub Pages
 
 Owner first name in human spots: Roberto
